@@ -21,7 +21,7 @@ crypto-scraper
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/crypto-scraper.git
+   git clone https://github.com/douglas-engenheirodedados/cripto-scrap
    cd crypto-scraper
    ```
 
